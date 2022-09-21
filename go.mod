@@ -3,8 +3,8 @@ module github.com/open-telemetry/opentelemetry-collector-contrib
 go 1.18
 
 require (
-	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/alibabacloudlogserviceexporter v0.60.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/testexporter v0.0.4
+	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/alibabacloudlogserviceexporter v0.1.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/testexporter v0.1.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awscloudwatchlogsexporter v0.60.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awsemfexporter v0.60.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awskinesisexporter v0.60.0
