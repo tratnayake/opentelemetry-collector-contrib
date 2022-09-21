@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/test-exporter
+module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/testexporter
 
 go 1.18
 
