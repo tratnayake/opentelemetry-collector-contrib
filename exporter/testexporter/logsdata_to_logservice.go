@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package testexporter // import "github.com/open-telemetry/opentelemetry-collector-contrib/exporter/alibabacloudlogserviceexporter"
+package testexporter // import "github.com/tratnayake/opentelemetry-collector-contrib/exporter/testexporter"
 
 import (
 	"encoding/json"
